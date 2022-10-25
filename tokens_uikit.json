@@ -1,0 +1,102 @@
+{
+  "current-version": {
+    "value": "2.1.8-beta",
+    "type": "other"
+  },
+  "color": {
+    "brand": {
+      "value": "#00BCEB",
+      "type": "color",
+      "description": "A vivid island blue, as seen in the Cisco Logo"
+    },
+    "blue-10": {
+      "value": "#008DFF",
+      "type": "color",
+      "description": "A saturated & vivid version of the rich navy blue, used for hovers on high-emphasis backgrounds"
+    },
+    "blue-20": {
+      "value": "#0070D2",
+      "type": "color",
+      "description": "A rich and bright navy blue"
+    },
+    "blue-30": {
+      "value": "#0060AD",
+      "type": "color",
+      "description": "A slightly desaturated colbalt"
+    },
+    "blue-40": {
+      "value": "#0D274D",
+      "type": "color",
+      "description": "A deep blue, referred to as Midnight at Cisco"
+    },
+    "blue-50": {
+      "value": "#07162C",
+      "type": "color",
+      "description": "A deep, dark blue, almost black"
+    },
+    "gray-10": {
+      "value": "#F4F5F6",
+      "type": "color"
+    },
+    "gray-20": {
+      "value": "#EBEBEB",
+      "type": "color"
+    },
+    "gray-30": {
+      "value": "#D6D6D6",
+      "type": "color"
+    },
+    "gray-40": {
+      "value": "#8E8E8E",
+      "type": "color"
+    },
+    "gray-50": {
+      "value": "#606162",
+      "type": "color"
+    },
+    "gray-60": {
+      "value": "#1B1C1D",
+      "type": "color"
+    },
+    "white": {
+      "value": "rgba(255,255,255,  1)",
+      "type": "color"
+    },
+    "white-alpha-15": {
+      "value": "rgba(255,255,255, 0.15)",
+      "type": "color"
+    },
+    "white-alpha-25": {
+      "value": "rgba(255,255,255,  0.25)",
+      "type": "color"
+    },
+    "white-alpha-50": {
+      "value": "rgba(255,255,255,  0.50)",
+      "type": "color"
+    },
+    "white-alpha-85": {
+      "value": "rgba(255,255,255,  0.85)",
+      "type": "color"
+    },
+    "green": {
+      "value": "#2BA100",
+      "type": "color",
+      "description": "A dark green"
+    },
+    "purple-10": {
+      "value": "#B279E6",
+      "type": "color",
+      "description": "A light purple, used only for visited links"
+    },
+    "purple-20": {
+      "value": "#551A8B",
+      "type": "color",
+      "description": "A dark purple, used only for visited links"
+    },
+    "red": {
+      "value": "#E3241B",
+      "type": "color",
+      "description": "A rich and vibrant red, like a stop light"
+    }
+  }
+}
